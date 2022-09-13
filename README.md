@@ -1,6 +1,8 @@
 # ShatterlineAimBot
 Shatterline Color Aimbot
 
+DOWNLOAD HERE https://github.com/VirusHornisse62/ShatterlineAimBot/releases/tag/Compiled , or...
+
 just copy this setting in nvidia inspector 2.3.0.10 and then use any color aimbot.
 
 Antialiasing - transparency supersampling: AA_MODE_REPLAY_MODE_ALL
